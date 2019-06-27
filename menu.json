@@ -3,9 +3,9 @@
 	"colgap":200,
 	"rowgap":40,
 	"list":[
-		{"name":"批量下载","url":"http://192.168.3.250/rtmp/BatchDownload.swf"}
-		,{"name":"切图","url":"http://192.168.3.250/rtmp/SplitTexCustom1.swf"}
-		,{"name":"梦幻三国地图编辑器","url":"http://192.168.3.250/rtmp/MapEditor_xygj.swf"}
-		,{"name":"字体图集合拼","url":"http://192.168.3.250/rtmp/fnt_merger_xygj.swf"}
+		{"name":"批量下载","url":"http://github.com/cocentCN/tools/raw/master/BatchDownload.swf"}
+		,{"name":"切图","url":"http://github.com/cocentCN/tools/raw/master/SplitTexCustom1.swf"}
+		,{"name":"梦幻三国地图编辑器","url":"http://github.com/cocentCN/tools/raw/master/MapEditor_xygj.swf"}
+		,{"name":"字体图集合拼","url":"http://github.com/cocentCN/tools/raw/master/fnt_merger_xygj.swf"}
 	]
 }
